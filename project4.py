@@ -1,4 +1,4 @@
-Bnumber = int(input("input number goes over here"))
+Bnumber = int(input("Enter your binary number here"))
 digits = len(str(Bnumber))
 result=0
 
